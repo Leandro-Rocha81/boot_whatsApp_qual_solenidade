@@ -1,0 +1,6 @@
+# Ignorar o chromedriver que é específico para cada máquina
+chromedriver/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
