@@ -9,7 +9,7 @@ Antes de iniciar, verifique se você possui os seguintes requisitos instalados:
 ## Instalação
 1. Clone este repositório:
    ```sh
-   git clone [https://github.com/seu-usuario/solenidades-liturgicas.git](https://github.com/Leandro-Rocha81/boot_whatsApp_qual_solenidade.git)
+   git clone https://github.com/seu-usuario/solenidades-liturgicas.git
    ```
    
 2. Acesse a pasta do projeto:
