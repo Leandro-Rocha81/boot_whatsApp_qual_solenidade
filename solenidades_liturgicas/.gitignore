@@ -1,0 +1,29 @@
+# Arquivos do ambiente virtual
+venv/
+.env
+*.env
+
+# Arquivos de compilação Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+.DS_Store
+
+# Dependências instaladas
+requirements.txt
+
+# Arquivos gerados automaticamente
+data/
+solenidades_liturgicas.json
+
+# Configurações do VSCode e outros editores
+.vscode/
+.idea/
+
+# Arquivos do Selenium WebDriver
+chromedriver
+chromedriver.exe
