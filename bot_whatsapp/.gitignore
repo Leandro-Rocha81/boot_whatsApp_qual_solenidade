@@ -1,0 +1,35 @@
+# Dependências do npm
+/node_modules/
+
+# Diretórios de configuração do PM2 (caso você utilize)
+pms/
+
+# Arquivos de log do PM2 (se existirem)
+*.log
+
+# Arquivos do sistema operacional (gerados automaticamente)
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Arquivos de build ou distribuição
+/dist/
+build/
+*.tgz
+
+# Arquivos do editor (exemplo para VSCode)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do sistema do Node
+npm-debug.log
+yarn-debug.log
+yarn-error.log
